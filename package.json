@@ -1,0 +1,25 @@
+{
+  "name": "internrepo",
+  "version": "1.0.0",
+  "description": "This is a readme file",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sreejan100/internrepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sreejan100/internrepo/issues"
+  },
+  "homepage": "https://github.com/Sreejan100/internrepo#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.9"
+  }
+}

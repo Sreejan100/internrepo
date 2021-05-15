@@ -1,0 +1,103 @@
+.HomeBody
+{
+
+    margin: 0 auto;
+    
+    color: #fff;
+    margin-top: 80px;
+    background-color:#fff;
+    width:450px;
+    border-radius: 20px;
+}
+.HomeHeader
+{
+    color:#E71F0B;
+    text-align:center;
+}
+
+.question
+{
+
+    border-radius: 20px;
+    width:100%;
+    color:#000;
+    height:30px;
+    margin-left: 30px;
+    margin-top: 30px;   
+}
+
+
+.answerslotone{
+
+    margin-top:10px;
+    margin-left:10px;
+}
+.answerone{
+    background-color:#E71F0B;
+    display:inline-block;
+    width:100px;
+    height:30px;
+    color:#000;
+    border-radius: 100px;
+    text-align: center;
+    
+}
+
+.answertwo{
+    display: inline-block;
+    background-color:#E71F0B;
+    width:100px;
+    height:30px;
+    color:#000;
+    border-radius: 10px;
+    margin-left: 5px;
+    text-align: center;   
+}
+.answerthree{
+    background-color: #E71F0B;
+    text-align:center;
+    display:inline-block;
+    width:100px;
+    height:30px;
+    color:#000;
+    margin-left:5px;
+    border-radius: 10px;
+ 
+}
+.answerfour{
+    
+    display: inline-block;
+    height: 30px;
+    background-color: #E71F0B;
+    margin-left: 5px;
+    text-align: center;
+    width:100px;
+    color:#000;
+    border-radius: 10px;
+}
+
+.answersection {
+   margin-top:10px;
+   width:300px;
+   margin-left: 20px;
+   
+ 
+}
+
+.inputanswer {
+    
+    display: inline-block;
+    margin-left: 10x;
+}
+.ansbut
+{
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+   
+}
+
+.quizscore{
+    color:#000;
+    margin:20px 90px;
+}
